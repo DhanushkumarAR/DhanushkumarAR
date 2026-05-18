@@ -73,14 +73,15 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DhanushkumarAR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhanushkumarAR&theme=dracula"
+    height="160"
     alt="stats graph"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkumarAR&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanushkumarAR&theme=dracula"
+    height="160"
     alt="languages graph"
   />
+</div>
 </div>
