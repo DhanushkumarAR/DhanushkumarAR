@@ -90,18 +90,7 @@ Open To:
 
 <div align="center">
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,redux,aws,gcp,mongodb,postgres,docker,graphql,github&theme=dark" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" />
-<img src="https://img.shields.io/badge/Cursor-2E2E2E?style=for-the-badge&logo=cursor&logoColor=white" />
-
-
-
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,redux,aws,gcp,mongodb,postgres,docker,graphql&theme=dark" />
 
 </div>
 
@@ -112,6 +101,35 @@ Open To:
 | ☁️ Technologies |
 |---|
 | Node.js • Redux • AWS • GCP • MongoDB • PostgreSQL • Docker • GraphQL • Neural Networks |
+
+</div>
+
+<br/>
+
+## 🧠 AI Tools & Development Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" />
+<img src="https://img.shields.io/badge/Cursor-2E2E2E?style=for-the-badge&logo=cursor&logoColor=white" />
+
+</div>
+
+<br/>
+
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| ⚡ AI Development Tools |
+|---|
+| ChatGPT • Gemini • Claude • GitHub Copilot • Cursor • Trae AI |
 
 </div>
 
