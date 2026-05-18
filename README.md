@@ -1,13 +1,14 @@
 <h1 align="center">Hey 👋 I'm Dhanush Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Spring Boot
+  Full Stack Developer • React • Next.js • Spring Boot
 </h3>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;React+%7C+Next.js+%7C+Spring+Boot;Always+Learning+New+Technologies" />
-
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;React+%7C+Next.js+%7C+Spring+Boot;Always+Learning+New+Technologies" 
+    alt="Typing SVG" 
+  />
 </div>
 
 ---
@@ -73,29 +74,20 @@ Full Stack Developer • React • Next.js • Spring Boot
 ## 🕹️ Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg">
-</picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+  >
 
----
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg"
+  >
 
-## 🧩 Breakout Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph.svg">
-  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph.svg">
-</picture>
-
----
-
-## 🚀 Galaga Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph.svg">
+  <img 
+    alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg"
+  >
 </picture>
 
 ---
@@ -122,6 +114,6 @@ Full Stack Developer • React • Next.js • Spring Boot
 
 ### ⚡ Fun Fact
 
-I enjoy building scalable applications and experimenting with modern web technologies.
+💡 I enjoy building scalable applications and experimenting with modern web technologies.
 
 </div>
