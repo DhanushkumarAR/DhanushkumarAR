@@ -24,6 +24,17 @@
 
 </div>
 
+# 🕹️ Pac-Man Contribution Graph
+
+<div align="center">
+
+<img
+  alt="pacman contribution graph"
+  src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+/>
+
+</div>
+
 ---
 
 # 💫 About Me
@@ -59,19 +70,6 @@ Open To:
   • AI & Full Stack Collaborations
   • Open Source Contributions
 </pre>
-
-</div>
-
----
-
-# 🕹️ Pac-Man Contribution Graph
-
-<div align="center">
-
-<img
-  alt="pacman contribution graph"
-  src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
-/>
 
 </div>
 
