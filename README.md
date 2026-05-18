@@ -28,53 +28,59 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 
   <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
   </a>
 
   <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
 
   <a href="https://dev.to">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="28" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DhanushkumarAR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img 
+    src="https://streak-stats.demolab.com?user=DhanushkumarAR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
+    height="180" 
+    alt="streak graph" 
+  />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=DhanushkumarAR&theme=dracula&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=DhanushkumarAR&theme=dracula&margin-w=15&margin-h=15&no-frame=true" 
+    height="180" 
+    alt="trophy graph" 
+  />
 </div>
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg" 
+    alt="Pacman contribution graph" 
   />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg"
-  />
-
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg"
-  />
-</picture>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushkumarAR&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DhanushkumarAR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="170"
+    alt="stats graph"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkumarAR&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkumarAR&layout=compact&theme=dracula&langs_count=8&cache_seconds=1800"
+    height="170"
+    alt="languages graph"
+  />
 </div>
