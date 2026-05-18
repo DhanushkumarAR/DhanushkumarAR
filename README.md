@@ -1,11 +1,51 @@
-<h1 align="center">💫 About Me</h1>
- <div align="center">
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
-    width="750"
-  />
+<h1 align="center">Hey 👋 I'm Dhanush Kumar</h1>
+
+<h3 align="center">
+  🚀 Software Engineer • Full Stack Builder • AI Enthusiast
+</h3>
+
+<p align="center">
+  <b>Final Year CSE Student (2023 – 2027) 🇮🇳</b>
+</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/a-r-dhanush-kumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DhanushkumarAR">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ardhanushkumar/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=438678&key=fd75b8a096be0969bcb29f2831c88fb2dd45db66">
+  <img src="https://img.shields.io/badge/SkillRack-00C853?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:ardhanushkumar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+<h1 align="center">💫 About Me</h1>
+
+<div align="center">
+
+<img
+  alt="pacman contribution graph"
+  src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+  width="750"
+/>
+
+</div>
+
 <div align="center">
 
 <img 
@@ -15,7 +55,19 @@
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td width="220" align="center">
+
+<img 
+  src="./assets/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" 
+  width="200"
+/>
+
+</td>
+
+<td align="center">
 
 <pre>
 Name: A R Dhanush Kumar
@@ -47,7 +99,19 @@ Open To:
   • Open Source Contributions
 </pre>
 
-</div>
+</td>
+
+<td width="220" align="center">
+
+<img 
+  src="./assets/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" 
+  width="200"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
