@@ -1,1 +1,127 @@
-</h1> ### <div align="center"> <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" /> </div> ### <div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /> </a> <a href="https://twitter.com/YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" /> </a> <a href="https://discord.com"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" /> </a> <a href="https://dev.to"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="28" /> </a> </div> ### <div align="center"> <img src="https://streak-stats.demolab.com?user=DhanushkumarAR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" /> <img src="https://github-profile-trophy.vercel.app/?username=DhanushkumarAR&theme=dracula&margin-w=15&margin-h=15&no-frame=true" height="180" alt="trophy graph" /> </div> ### <div align="center"> <img src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" /> </div> ### <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhanushkumarAR&theme=dracula" height="160" alt="stats graph" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanushkumarAR&theme=dracula" height="160" alt="languages graph" /> </div> </div>
+<h1 align="center">Hey 👋 I'm Dhanush Kumar</h1>
+
+<h3 align="center">
+Full Stack Developer • React • Next.js • Spring Boot
+</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;React+%7C+Next.js+%7C+Spring+Boot;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws,spring,mongodb,postgres,docker,redis" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://dev.to">
+  <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=DhanushkumarAR&theme=dracula&hide_border=true&border_radius=12" 
+  height="180"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=DhanushkumarAR&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4" 
+  width="90%" 
+/>
+
+</div>
+
+---
+
+## 🕹️ Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🧩 Breakout Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/breakout-contribution-graph.svg">
+</picture>
+
+---
+
+## 🚀 Galaga Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/galaga-contribution-graph.svg">
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhanushkumarAR&theme=dracula"
+  height="170"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanushkumarAR&theme=dracula"
+  height="170"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+I enjoy building scalable applications and experimenting with modern web technologies.
+
+</div>
