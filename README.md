@@ -1,20 +1,11 @@
-<h1 align="center">Hey 👋 I'm Dhanush Kumar</h1>
-
-<h3 align="center">
-  🚀 Software Engineer • Full Stack Builder • AI Enthusiast
-</h3>
-
-<p align="center">
-  <b>Final Year CSE Student (2023 – 2027) 🇮🇳</b>
-</p>
-
-<p align="center">
-  ☕ Oracle Certified Java SE 17 Developer <br/>
-  Passionate about scalable software engineering, backend systems, and AI-driven applications.
-</p>
-
----
-
+<h1 align="center">💫 About Me</h1>
+ <div align="center">
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+    width="750"
+  />
+</div>
 <div align="center">
 
 <img 
@@ -23,21 +14,6 @@
 />
 
 </div>
-
-# 🕹️ Pac-Man Contribution Graph
-
-<div align="center">
-
-<img
-  alt="pacman contribution graph"
-  src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
-/>
-
-</div>
-
----
-
-# 💫 About Me
 
 <div align="center">
 
@@ -163,46 +139,16 @@ Open To:
 
 ---
 
-# 💼 Experience
+# 🚀 Featured Projects
 
 <div align="center">
 
-### Full Stack Development Intern — HivyBlue Pvt. Ltd.
-
-📅 May 2025 – September 2025 • Remote
-
-</div>
-
-- Worked on the **Sledge Application** using the **MERN Stack**, delivering bug fixes and feature enhancements while leveraging AI agents to improve development workflows.
-- Gained foundational exposure to **video conferencing systems** and worked with **100ms WebRTC SDK APIs**.
-- Contributed significantly to development with approximately **21% frontend** and **7.2% backend** contributions.
-- Collaborated in agile sprint workflows using tools like **JIRA** and explored **AI-Assisted Code Engineering** practices.
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/a-r-dhanush-kumar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/DhanushkumarAR">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ardhanushkumar/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.skillrack.com/faces/resume.xhtml?id=438678&key=fd75b8a096be0969bcb29f2831c88fb2dd45db66">
-  <img src="https://img.shields.io/badge/SkillRack-00C853?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="mailto:ardhanushkumar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| 🚀 Project | 📌 Description | ⚒️ Tech Stack |
+|---|---|---|
+| 🏥 [Hospital Management System](https://github.com/DhanushkumarAR/Hospital-Management-System) | REST API based backend system focused on CRUD operations, entity relationships, backend endpoints, and SpringBoot fundamentals. | `Spring Boot` `Java` `MySQL` `REST APIs` |
+| 🌐 [Frontend Assessment Webpage](https://dhanushkumarar.github.io/HireMyIdeaAssesment/) | Responsive frontend webpage built using core frontend technologies with focus on layouts and UI fundamentals. | `React` `HTML` `CSS` `JavaScript` |
+| 🧠 [RGB Spiral Data Classifier](https://github.com/DhanushkumarAR/machine_learning_dump/blob/main/rgb_neural_network.ipynb) | Foundational Neural Network project focused on RGB spiral classification, data visualization, optimization concepts, and understanding core machine learning fundamentals. | `Python` `NumPy` `Matplotlib` `Jupyter Notebook` `Scikit-learn` |
+| 🐍 [Snake Game in C](https://github.com/DhanushkumarAR/Snake-game-basics---low-level) | Low-level Snake Game implementation focused on logic, arrays, memory handling, collision detection, and DSA fundamentals. | `C Programming` `DSA Fundamentals` |
 
 </div>
 
@@ -281,21 +227,6 @@ Open To:
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhanushkumarAR&theme=tokyonight"
   height="170"
 />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📌 Description | ⚒️ Tech Stack |
-|---|---|---|
-| 🏥 [Hospital Management System](https://github.com/DhanushkumarAR/Hospital-Management-System) | REST API based backend system focused on CRUD operations, entity relationships, backend endpoints, and SpringBoot fundamentals. | `Spring Boot` `Java` `MySQL` `REST APIs` |
-| 🌐 [Frontend Assessment Webpage](https://dhanushkumarar.github.io/HireMyIdeaAssesment/) | Responsive frontend webpage built using core frontend technologies with focus on layouts and UI fundamentals. | `React` `HTML` `CSS` `JavaScript` |
-| 🧠 [RGB Spiral Data Classifier](https://github.com/DhanushkumarAR/machine_learning_dump/blob/main/rgb_neural_network.ipynb) | Foundational Neural Network project focused on RGB spiral classification, data visualization, optimization concepts, and understanding core machine learning fundamentals. | `Python` `NumPy` `Matplotlib` `Jupyter Notebook` `Scikit-learn` |
-| 🐍 [Snake Game in C](https://github.com/DhanushkumarAR/Snake-game-basics---low-level) | Low-level Snake Game implementation focused on logic, arrays, memory handling, collision detection, and DSA fundamentals. | `C Programming` `DSA Fundamentals` |
 
 </div>
 
