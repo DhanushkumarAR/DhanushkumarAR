@@ -30,35 +30,48 @@
 
 <div align="center">
 
-```yaml
+<pre>
 Name: A R Dhanush Kumar
 Role: Software Engineer & Builder
 Batch: 2023 - 2027
 
 Focus Areas:
-  - Full Stack Development
-  - Backend Engineering
-  - AI-Assisted Code Engineering
-  - Problem Solving & DSA
-  - AI Agents & RAG Systems
+  • Full Stack Development
+  • Backend Engineering
+  • AI-Assisted Code Engineering
+  • Problem Solving & DSA
+  • AI Agents & RAG Systems
 
 Currently Learning:
-  - Advanced Data Structures & Algorithms
-  - Foundational HLD & LLD
-  - AI & Machine Learning Basics
-  - Agentic AI & RAG Systems
-  - Distributed Systems
+  • Advanced Data Structures & Algorithms
+  • Foundational HLD & LLD
+  • AI & Machine Learning Basics
+  • Agentic AI & RAG Systems
+  • Distributed Systems
 
 Mindset:
-  - Can adapt and work across different tech stacks
-  - Loves building products and learning by doing
-  - Interested in scalable and intelligent systems
+  • Can adapt and work across different tech stacks
+  • Loves building products and learning by doing
+  • Interested in scalable and intelligent systems
 
 Open To:
-  - Software Engineering Opportunities
-  - AI & Full Stack Collaborations
-  - Open Source Contributions
-```
+  • Software Engineering Opportunities
+  • AI & Full Stack Collaborations
+  • Open Source Contributions
+</pre>
+
+</div>
+
+---
+
+# 🕹️ Pac-Man Contribution Graph
+
+<div align="center">
+
+<img
+  alt="pacman contribution graph"
+  src="https://raw.githubusercontent.com/DhanushkumarAR/DhanushkumarAR/output/pacman-contribution-graph-dark.svg"
+/>
 
 </div>
 
@@ -120,16 +133,11 @@ Open To:
 
 <br/>
 
-
-</div>
-
-<br/>
-
 <div align="center">
 
 | ⚡ AI Development Tools |
 |---|
-| ChatGPT • Gemini • Claude • GitHub Copilot • Cursor • Trae AI |
+| ChatGPT • Gemini • Claude • GitHub Copilot • Cursor |
 
 </div>
 
